@@ -15,7 +15,7 @@ import pandas as pd
 import numpy as np
 
 # Write your app code
-st.set_page_config(page_title="My Easy App", layout="centered")
+st.set_page_config(page_title="My Difficult App", layout="centered")
 st.title("My Amazing Data App 📊")
 st.write("This is so much easier!")
 
